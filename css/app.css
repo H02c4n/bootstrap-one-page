@@ -19,7 +19,7 @@
 
 /*! ------------- 2- CAROUSEL --------------- */
 .carousel-item {
-  height: calc(100vh - 88px);
+  max-height: calc(100vh - 88px);
 }
 .carousel-item h5 {
   color: var(--red);
